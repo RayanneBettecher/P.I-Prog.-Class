@@ -3,9 +3,34 @@ Banco de dados -> Um banco de dados é uma coleção organizada de informações
 Informação -> Informação é a reunião ou o conjunto de dados e conhecimentos organizados, que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno, com o objetivo de reduzir a incerteza ou aprofundar os conhecimentos.
 Sistema de arquivos -> Sistema de arquivo (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. 
 Servidor -> Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+
 Bibliografia:
 https://www.oracle.com/br/database/what-is-database/
 https://gaea.com.br/variaveis-programacao/#:~:text=O%20que%20s%C3%A3o%20as%20vari%C3%A1veis,o%20sistema%20est%C3%A1%20em%20execu%C3%A7%C3%A3o.
 https://www.significados.com.br/informacao/
 https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system
 https://www.controle.net/faq/o-que-sao-servidores#:~:text=Um%20servidor%20%C3%A9%20um%20computador,disks%20internos%20ou%20mem%C3%B3rias%20SSD.
+
+13.08.2024.
+
+Data Centers e LGPD
+Primeiramente, é essencial entender o conceito de Data Centers. Estes são instalações dedicadas ao alojamento de equipamentos de computação, incluindo servidores, sistemas de armazenamento de dados, switches de rede e roteadores. 
+A principal função de um Data Center é oferecer um ambiente seguro e controlado para armazenar, processar e gerenciar dados e informações de uma organização ou empresa. Eles são fundamentais para garantir a disponibilidade, segurança e confiabilidade dos serviços digitais, como sites, aplicativos, sistemas de gerenciamento de banco de dados e e-mails, entre outros.
+Os Data Centers devem conformar-se com a Lei Geral de Proteção de Dados (LGPD) devido à presença de servidores, sistemas de armazenamento e processamento de dados, roteadores, equipamentos e dispositivos de segurança, e outras ferramentas físicas e digitais. 
+É crucial que estejam alinhados com os parâmetros de segurança estabelecidos pela LGPD para evitar danos ou perdas que possam comprometer os dados armazenados na nuvem dos clientes.
+O primeiro passo para assegurar maior proteção dos dados é adotar a metodologia Privacy By Design. Isso implica que os profissionais da empresa devem integrar a privacidade e a proteção de dados pessoais em todos os projetos desenvolvidos pela organização.
+
+Formatos de arquivos
+O formato de um arquivo define como as informações são codificadas para armazenamento e recuperação em um computador. Existem formatos abertos e proprietários. 
+Formatos abertos seguem padrões públicos e podem ser implementados por diversos softwares, tanto livres quanto proprietários, sem restrições legais. 
+Já os formatos proprietários são controlados por empresas e podem limitar o acesso e a interoperabilidade, pois suas especificações não são amplamente divulgadas.
+O objetivo principal dos formatos abertos é garantir o acesso e a interoperabilidade dos dados a longo prazo, sem dependência de um único fornecedor. Isso também estimula a concorrência, ao contrário dos formatos proprietários, que podem tornar os dados inacessíveis se o software que os suporta for descontinuado.
+Por exemplo, o formato MP3 é considerado proprietário devido às suas patentes, mas suas especificações são públicas, o que permite sua ampla adoção como padrão internacional.
+
+Em relação a dados públicos, o uso de formatos abertos oferece vantagens significativas ao:
+(i) garantir que os dados permaneçam acessíveis e utilizáveis a longo prazo, independentemente do software; 
+(ii) facilitar a preservação dos dados devido às especificações amplamente conhecidas; 
+(iii)) reduzir a dependência de um único fornecedor, evitando problemas de acesso caso o software seja descontinuado; 
+(iv) aumentar a transparência e a confiança pública, pois qualquer pessoa pode auditar os dados; e 
+(v)  estimular a inovação e a concorrência ao permitir que diferentes desenvolvedores criem soluções.
+Em contraste, formatos proprietários podem limitar o acesso e a interoperabilidade, dificultar o arquivamento e a preservação, criar dependência de fornecedores específicos, reduzir a transparência e restringir a inovação.

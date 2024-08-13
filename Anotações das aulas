@@ -1,0 +1,44 @@
+Linguagens de programação de baixo nível significa ter baixo nível de abstração, ou seja, ser mais concreto.
+Linguagem concreta -> linguagem de máquina (é somente impulsos elétricos no computador, ou seja, apresenta uma linguagem menos abstrata)
+A contrapartida o python é mais abstrato. 
+Variável (computação) -> Nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação 
+Banco de dados -> Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+Informação -> Informação é a reunião ou o conjunto de dados e conhecimentos organizados, que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno, com o objetivo de reduzir a incerteza ou aprofundar os conhecimentos.
+Sistema de arquivos -> Sistema de arquivo (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. 
+Servidor -> Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+Zero rating fere a neutralidade da rede (que é um principio do marco da internet, que diz que uma empresa não pode favorecer o tráfego da outra. Ex.: oi favorecendo a Netflix em relação a amazona).
+
+Bibliografia:
+https://www.oracle.com/br/database/what-is-database/
+https://gaea.com.br/variaveis-programacao/#:~:text=O%20que%20s%C3%A3o%20as%20vari%C3%A1veis,o%20sistema%20est%C3%A1%20em%20execu%C3%A7%C3%A3o.
+https://www.significados.com.br/informacao/
+https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system
+https://www.controle.net/faq/o-que-sao-servidores#:~:text=Um%20servidor%20%C3%A9%20um%20computador,disks%20internos%20ou%20mem%C3%B3rias%20SSD.
+
+13.08.2024
+
+O github é uma ferramenta feita para a colaboração, na qual você pode compartilha projetos, pode utilizar como uma rede social de programadores...
+Usamos um sistema de numeração posicional
+No cotidiano usamos, principalmente, a base 10 (porque tem 10 símbolos, do zero ao nove)
+
+Como escrevemos em base 2?
+	Base 2 porque tem dois símbolos, ou seja, só podemos utilizar dois números. Cada número irá ficar em uma posição, como por exemplo, _ _ _ _, as posições seriam 3, 2,1,0. 
+	Escolhemos os números 1 e 0 e os colocamos na seguinte sequência 1 0 0 1. 
+	Usaremos o 2 como base, sendo 2 elevados a 0 = 0; 2 elevados a 1 = 2; 2 elevados a 2 = 4; e 2 elevados a 3 = 8. 
+	Demos multiplicar esses números com a sua posição -> 1 x 8 + 0 x 4 + 2 x 0 + 1 x 0 = 9
+Por que escrevemos na base 2?
+É muito mais fácil para os engenheiros eles leiam ausência e linguagem de sinal com mais facilidade.
+
+Arquivos
+É um documento digital, pode ser uma foto, um documento no word.... É a forma fundamental da persistência dos dados, ou seja, como vai guardar os dados para usar depois. Os arquivos são a forma de persistir os dados.
+A computação tem um arquivo especial, o arquivo de texto. Nesse arquivo só existem caracteres, logo, não possui formatação, tipo de letra. Sendo arquivo é fácil de ser lido por outro computador ou outro programa.
+Binários - As informações são armazenadas como sequências de bytes construídas de acordo com as especificações do programa que fez a gravação do arquivo. Utilizar o conteúdo de um arquivo binário exige conhecer as especificações da sua construção. Todo arquivo é no fundo binário.
+Para usar um arquivo binário é necessário saber a sua regra de produção.
+Arquivos de texto - As informações são armazenadas como caracteres. Podem ser construídos e lidos por editores de texto.
+Um arquivo de foto não apresenta caractere, suas informações são as formas e cores. 
+
+Sistema operacional é sistema (programa) que permite que outros programas usem o computador, ou seja, a máquina, como por exemplo, Windows, ios
+Nuvem é a camada de abstração sobre conjunto de hardaware;
+Computadores são compostos por hardware, que são as partes físicas do computador.
+
+

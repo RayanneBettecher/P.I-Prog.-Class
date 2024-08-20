@@ -14,11 +14,12 @@ https://www.controle.net/faq/o-que-sao-servidores#:~:text=Um%20servidor%20%C3%A9
 13.08.2024.
 
 Data Centers e LGPD
-Primeiramente, é essencial entender o conceito de Data Centers. Estes são instalações dedicadas ao alojamento de equipamentos de computação, incluindo servidores, sistemas de armazenamento de dados, switches de rede e roteadores. 
+Primeiramente, é essencial entender o conceito de Data Centers. Estes são instalações dedicadas ao alojamento de equipamentos de computação, incluindo servidores, sistemas de armazenamento de dados, switches de rede e roteadores. Ex.: O google/amazon possuem data ceneters espalhados pelos mundo.
 A principal função de um Data Center é oferecer um ambiente seguro e controlado para armazenar, processar e gerenciar dados e informações de uma organização ou empresa. Eles são fundamentais para garantir a disponibilidade, segurança e confiabilidade dos serviços digitais, como sites, aplicativos, sistemas de gerenciamento de banco de dados e e-mails, entre outros.
 Os Data Centers devem conformar-se com a Lei Geral de Proteção de Dados (LGPD) devido à presença de servidores, sistemas de armazenamento e processamento de dados, roteadores, equipamentos e dispositivos de segurança, e outras ferramentas físicas e digitais. 
-É crucial que estejam alinhados com os parâmetros de segurança estabelecidos pela LGPD para evitar danos ou perdas que possam comprometer os dados armazenados na nuvem dos clientes.
+É crucial que estejam alinhados com os parâmetros de segurança estabelecidos pela LGPD para evitar danos ou perdas que possam comprometer os dados armazenados na nuvem dos clientes. A LGPD diz a responsabilidade do operador, que possui o data center, e do gestor dos dados, aqueles que podem usar os computadores dos data centers
 O primeiro passo para assegurar maior proteção dos dados é adotar a metodologia Privacy By Design. Isso implica que os profissionais da empresa devem integrar a privacidade e a proteção de dados pessoais em todos os projetos desenvolvidos pela organização.
+A LGPD estabelece obrigações para data centers fora do brasil também, porém temos os as demais leis de proteção de dados internacionais. Art.52 da LGPD. A LGPD fala sobre os dados armazenados fora do brasil, mas estabelece regras para os dados coletados no brasil.
 
 Formatos de arquivos
 O formato de um arquivo define como as informações são codificadas para armazenamento e recuperação em um computador. Existem formatos abertos e proprietários. 

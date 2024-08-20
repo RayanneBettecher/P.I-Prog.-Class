@@ -22,16 +22,18 @@ O primeiro passo para assegurar maior proteção dos dados é adotar a metodolog
 A LGPD estabelece obrigações para data centers fora do brasil também, porém temos os as demais leis de proteção de dados internacionais. Art.52 da LGPD. A LGPD fala sobre os dados armazenados fora do brasil, mas estabelece regras para os dados coletados no brasil.
 
 Formatos de arquivos
-O formato de um arquivo define como as informações são codificadas para armazenamento e recuperação em um computador. Existem formatos abertos e proprietários. 
-Formatos abertos seguem padrões públicos e podem ser implementados por diversos softwares, tanto livres quanto proprietários, sem restrições legais. 
-Já os formatos proprietários são controlados por empresas e podem limitar o acesso e a interoperabilidade, pois suas especificações não são amplamente divulgadas.
+O formato de um arquivo define como as informações são codificadas para armazenamento e recuperação em um computador. É a regra que vai "ler" os Arquivos (conjunto de dados) Existem formatos abertos e proprietários. É aquilo que aparece no final de quando salvamos os arquivos, .doc .jpeg .pdf....
+Formatos abertos seguem padrões públicos e podem ser implementados por diversos softwares, tanto livres quanto proprietários, sem restrições legais. Exemplo de formato aberto, PNG e MKV(FORMATO DE VÍDEO). 
+Já os formatos proprietários são controlados por empresas e podem limitar o acesso e a interoperabilidade, pois suas especificações/padrão/regras de informação dos arquivos não são amplamente divulgadas. Além disso, a empresa que é responsavel pela propriedade das regras pode escolher para quem irá divulgar, justamente por possuir direitos sobre aqueleas regras, quem usar as suas especificações sem autorização seria pirataria. 
 O objetivo principal dos formatos abertos é garantir o acesso e a interoperabilidade dos dados a longo prazo, sem dependência de um único fornecedor. Isso também estimula a concorrência, ao contrário dos formatos proprietários, que podem tornar os dados inacessíveis se o software que os suporta for descontinuado.
-Por exemplo, o formato MP3 é considerado proprietário devido às suas patentes, mas suas especificações são públicas, o que permite sua ampla adoção como padrão internacional.
+Por exemplo, o formato MP3 é considerado proprietário devido às suas patentes, mas suas especificações são públicas, o que permite sua ampla adoção como padrão internacional (é discutível). Já o word é um exemplo de formato de aruivo proprietário, devemos pagar uma licença para utilizar.
 
+Daods públicos: São aqueles provenientes da ação estatal que não possuem restrições de confidencialidade. 
 Em relação a dados públicos, o uso de formatos abertos oferece vantagens significativas ao:
 (i) garantir que os dados permaneçam acessíveis e utilizáveis a longo prazo, independentemente do software; 
 (ii) facilitar a preservação dos dados devido às especificações amplamente conhecidas; 
-(iii)) reduzir a dependência de um único fornecedor, evitando problemas de acesso caso o software seja descontinuado; 
+(iii) reduzir a dependência de um único fornecedor, evitando problemas de acesso caso o software seja descontinuado; 
 (iv) aumentar a transparência e a confiança pública, pois qualquer pessoa pode auditar os dados; e 
 (v)  estimular a inovação e a concorrência ao permitir que diferentes desenvolvedores criem soluções.
+A uma resolução do TCU que os dados públicos devem ser divulgados, preferencialmente, em formatos abertos. Entretanto, não é sempre assimq ue funciona no Brasil devido a corrupção, não há interesse em revelar os dados de forma precisa para a população, e devido ao interesse comercial, uma vez que os formatos proprietários geram bastante dinheiro. 
 Em contraste, formatos proprietários podem limitar o acesso e a interoperabilidade, dificultar o arquivamento e a preservação, criar dependência de fornecedores específicos, reduzir a transparência e restringir a inovação.

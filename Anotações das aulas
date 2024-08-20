@@ -4,7 +4,7 @@ A contrapartida o python é mais abstrato.
 Variável (computação) -> Nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação 
 Banco de dados -> Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
 Informação -> Informação é a reunião ou o conjunto de dados e conhecimentos organizados, que possam constituir referências sobre um determinado acontecimento, fato ou fenômeno, com o objetivo de reduzir a incerteza ou aprofundar os conhecimentos.
-Sistema de arquivos -> Sistema de arquivo (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. 
+Sistema de arquivos -> Sistema de arquivo (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. É a forma de organizar os arquivos no computador, logo, sistemas operacionais diferentes apresentam diferentes sistemas de arquivos. 
 Servidor -> Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
 Zero rating fere a neutralidade da rede (que é um principio do marco da internet, que diz que uma empresa não pode favorecer o tráfego da outra. Ex.: oi favorecendo a Netflix em relação a amazona).
 
@@ -40,5 +40,12 @@ Um arquivo de foto não apresenta caractere, suas informações são as formas e
 Sistema operacional é sistema (programa) que permite que outros programas usem o computador, ou seja, a máquina, como por exemplo, Windows, ios
 Nuvem é a camada de abstração sobre conjunto de hardaware;
 Computadores são compostos por hardware, que são as partes físicas do computador.
+
+20.08.24
+
+Jurimetria -> disciplina resultante da aplicação de modelos estatísticos na compreensão dos processos e fatos jurídicos. A jurimetria é a aplicação de métodos quantitativos e estatísticos ao estudo do direito e à análise de fenômenos jurídicos. Ela busca utilizar dados e técnicas de análise para entender padrões, tendências e resultados no campo jurídico
+
+Rede Neural Artificial -> Por exemplo, um pedaço do chatgpt é baseado em uma rede neural. Uma rede neural artificial é um modelo computacional inspirado no funcionamento do cérebro humano, projetado para reconhecer padrões, aprender com dados e fazer previsões ou tomar decisões. Ela é composta por unidades chamadas neurônios artificiais, que são organizadas em camadas: uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída.
+Nesse caso, o algoritmo ou arquitetura --------> modelo, sendo uma conta muito grande. Manipula parâmetros, mas um modelo desses não pode dar uma conclusão médica. A rede neurala artificial é um tipo de algoritmo ou arquitetura, organizado em camadas, para gerar modelos. 
 
 

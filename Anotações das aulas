@@ -48,4 +48,24 @@ Jurimetria -> disciplina resultante da aplicação de modelos estatísticos na c
 Rede Neural Artificial -> Por exemplo, um pedaço do chatgpt é baseado em uma rede neural. Uma rede neural artificial é um modelo computacional inspirado no funcionamento do cérebro humano, projetado para reconhecer padrões, aprender com dados e fazer previsões ou tomar decisões. Ela é composta por unidades chamadas neurônios artificiais, que são organizadas em camadas: uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída.
 Nesse caso, o algoritmo ou arquitetura --------> modelo, sendo uma conta muito grande. Manipula parâmetros, mas um modelo desses não pode dar uma conclusão médica. A rede neurala artificial é um tipo de algoritmo ou arquitetura, organizado em camadas, para gerar modelos. 
 
+A marinha do brasil usava o Carta Certa, que ninguém sabia usar por ser um software proprietário, e migrou para o RTF, que é o utilizado hoje em dia.
+
+Marco Civil da Internet
+Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil.
+Os provedores de aplicação são as empresas que são donas das aplicações que fazemos na internet, como por exemplo, o META, o “alphabet” (dona do google). A OI, VIVO, TIM são chamados de provedor de acesso. 
+Tema 987 do STF e art.19 do Marco Civil da Internet
+19 da Lei n. 12.965/2014 (Marco Civil da Internet) que determina a necessidade de prévia e específica ordem judicial de exclusão de conteúdo para a responsabilização civil de provedor de internet, websites e gestores de aplicativos de redes sociais por danos decorrentes de atos ilícitos praticados por terceiros. 
+Art19 fala da responsabilidade das plataformas sobre o conteúdo aplicado. 
+Tema 553 - Dever de empresa hospedeira de sítio na internet fiscalizar o conteúdo publicado e de retirá-lo do ar quando considerado ofensivo, sem intervenção do Judiciário.
+
+Formato word vs. ODF (open documento format)
+O word quando surgiu, em 1986, conviveu com vários editores como o Carta Certa, word perfect e etc. 
+A partir da década de 90 monopolizou o mercado, em resposta a esse monopólio surgiu o movimento software livre, uma vez que os computadores e a internet comercial já estavam nas casas e empresas, o que aumentou a discussão sobre os softwares. O movimento software livre defendia a ideia de que os softwares proprietários são antiéticos. 
+Logo, começaram a surgir outros editores para atender essa demanda, como por exemplo, o ODF quando se tornou em padrão ISSO/IEC em 2006. Antigamente usava o formato proprietário DOC, que era um arquivo binário, porém, como contragolpe ao ODF, a Microsoft lança o formato aberto DOCX em 2007, oferecendo também suporte ao ODT, ou seja, aos arquivos em formato ODT. Em contrapartida, o formato DOCX é muito grande, logo, não é tão utilizado por não ter muito suporte. 
+O ODT e o DOCX além de serem formatos abertos, eles são arquivos de texto.
+Formato DOC – word
+É um formato proprietário, binário.
+Formato ODT – ODF
+É um formato XML, de texto, dentro de um zip. O zip é utilizado porque você pode incluir imagens, já que o arquivo é só texto.
+
 

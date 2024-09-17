@@ -1,0 +1,5 @@
+Exercício 1 -> ![image](https://github.com/user-attachments/assets/9c43ef03-a0a7-4900-9331-c8b2b7993d09)
+Exercício 2 -> ![image](https://github.com/user-attachments/assets/4e03ed12-be62-428a-b0be-ce45f947419b)
+Exercício 3 -> ![image](https://github.com/user-attachments/assets/25b49138-de4e-436d-a007-a36628aaf67e)
+Exercício 4 -> ![image](https://github.com/user-attachments/assets/45893bb9-70cd-41ad-84c8-f5cdcd40855b)
+Exercício 5-> ![image](https://github.com/user-attachments/assets/3fed6ffe-b53b-4b46-9eec-3b9dcf2bf3ea)
